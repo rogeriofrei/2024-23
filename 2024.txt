@@ -1,0 +1,1355 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Pete Davidson: Turbo Fonzarelli (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xezRO7jLGW4CFiYx0o68CBolaPT.jpg" group-title="2024 Movies",Pete Davidson: Turbo Fonzarelli (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Race for Glory: Audi vs Lancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovoybG8mCn6nQ6i5WoC8DdR08c2.jpg" group-title="2024 Movies",Race for Glory: Audi vs Lancia (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roadkill (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txDIiggyiFNbwa6TrZvBRfw6E54.jpg" group-title="2024 Movies",Roadkill (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Warchief" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ak2sMk6zTlaKrK9vY51ghmfEHAm.jpg" group-title="2024 Movies",Warchief
+http://cord-cutter.net:8080/movie/Test/Test/212498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Justice League: Crisis on Infinite Earths Part One (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zR6C66EDklgTPLHRSmmMt5878MR.jpg" group-title="2024 Movies",Justice League: Crisis on Infinite Earths Part One (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lift (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46sp1Z9b2PPTgCMyA87g9aTLUXi.jpg" group-title="2024 Movies",Lift (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No New Friends (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1664ZwWUKMg8ufvjrnygySskvKG.jpg" group-title="2024 Movies",No New Friends (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poor Boy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxAGYHNQeScvCxZuhzMj0dRUEFp.jpg" group-title="2024 Movies",Poor Boy (2018)
+http://cord-cutter.net:8080/movie/Test/Test/212605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Night They Came Home (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bd17axAG0qJ6YIU3SoootXV0Cz.jpg" group-title="2024 Movies",The Night They Came Home (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Painter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzlmjyBej9EJXuB6IsIT9LWqvV.jpg" group-title="2024 Movies",The Painter (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellhound (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1BtcTEk0pbe9XhbxrAp2oLKoWb.jpg" group-title="2024 Movies",Hellhound (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Dorothy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQJBaqZh6RvQG21S6hthV0NrZkK.jpg" group-title="2024 Movies",Project Dorothy (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Vampire Next Door (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBrzD4DOsj1lbXvjODGAbA8ddm8.jpg" group-title="2024 Movies",The Vampire Next Door (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wanted Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmdgdb8biQLLzTjySZLPdK13KwM.jpg" group-title="2024 Movies",Wanted Man (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Women Want Everything! (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9ouhQTcvr9cTxTymHgxSUDySGb.jpg" group-title="2024 Movies",Women Want Everything! (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212655.mp4
+#EXTINF:-1 tvg-id="nbc10wsls.us" tvg-name="US NBC (WSLS) Roanoke (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC (WSLS) Roanoke (F)
+http://cord-cutter.net:8080/Test/Test/212656
+#EXTINF:-1 tvg-id="" tvg-name="A Scottish Love Scheme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU27y1agaBDnDWgc3ypm1b2qNC0.jpg" group-title="2024 Movies",A Scottish Love Scheme (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A.Wall.Away.2022.720p.WEBRip.x264.AAC-[YTS.MX]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU27y1agaBDnDWgc3ypm1b2qNC0.jpg" group-title="2022 Movies",A.Wall.Away.2022.720p.WEBRip.x264.AAC-[YTS.MX]
+http://cord-cutter.net:8080/movie/Test/Test/212676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Betty's Bad Luck In Love (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inAybmYPu9WJwjSTgNWmqr3qzqB.jpg" group-title="2024 Movies",Betty's Bad Luck In Love (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bitconned (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="2024 Movies",Bitconned (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destroy All Neighbors (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIpjUy6ACDk8Fc8GkynLcIAPP49.jpg" group-title="2024 Movies",Destroy All Neighbors (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragons on the Hill (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uf0tO7iCNuPyLhS3BHzhxhiRr3q.jpg" group-title="2024 Movies",Dragons on the Hill (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dying in Plain Sight (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dL9856IrvQZdInzqrCCdmZSWrcR.jpg" group-title="2024 Movies",Dying in Plain Sight (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emotions of a Murder (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUZR6Vn83eNKfBWrTNjkGAPLedJ.jpg" group-title="2024 Movies",Emotions of a Murder (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jacqueline Novak: Get on Your Knees (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sotu84VEDKCj3JGqvJMIUyc9D4p.jpg" group-title="2024 Movies",Jacqueline Novak: Get on Your Knees (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Justice League: Crisis on Infinite Earths Part One (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zR6C66EDklgTPLHRSmmMt5878MR.jpg" group-title="2024 Movies",Justice League: Crisis on Infinite Earths Part One (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kevin James: Irregardless (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmyxo5C8Py2QILm1IIt4bMSy3Yv.jpg" group-title="2024 Movies",Kevin James: Irregardless (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lift (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gma8o1jWa6m0K1iJ9TzHIiFyTtI.jpg" group-title="2024 Movies",Lift (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love on the Right Course (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHTGbieCY8R9CORdA4s2EalrbDQ.jpg" group-title="2024 Movies",Love on the Right Course (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mephistopheles (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IyDF24b71Yfapp2BZT2Kjvv31x.jpg" group-title="2020 Movies",Mephistopheles (2020)
+http://cord-cutter.net:8080/movie/Test/Test/212689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Husband's Seven Wives (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6PMbgYQAa5nWCgNVi18fzKvqQ6.jpg" group-title="2024 Movies",My Husband's Seven Wives (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night Swim (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg" group-title="2024 Movies",Night Swim (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No New Friends (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1664ZwWUKMg8ufvjrnygySskvKG.jpg" group-title="2024 Movies",No New Friends (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pete Davidson: Turbo Fonzarelli (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOPqjS8D3uCvFHb695WIHi0UKA.jpg" group-title="2024 Movies",Pete Davidson: Turbo Fonzarelli (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poor Boy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxAGYHNQeScvCxZuhzMj0dRUEFp.jpg" group-title="2024 Movies",Poor Boy (2018)
+http://cord-cutter.net:8080/movie/Test/Test/212694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Race for Glory: Audi vs Lancia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovoybG8mCn6nQ6i5WoC8DdR08c2.jpg" group-title="2024 Movies",Race for Glory: Audi vs Lancia (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Roadkill (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txDIiggyiFNbwa6TrZvBRfw6E54.jpg" group-title="2024 Movies",Roadkill (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snooker Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8rEvbsyCy04Dpx3JmtOUO9wEdS.jpg" group-title="2024 Movies",Snooker Man (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Beekeeper (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="2024 Movies",The Beekeeper (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Greatest Night in Pop (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDz4wFujk94tQP9Sx6EMKDULvkn.jpg" group-title="2024 Movies",The Greatest Night in Pop (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Night They Came Home (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bd17axAG0qJ6YIU3SoootXV0Cz.jpg" group-title="2024 Movies",The Night They Came Home (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Painter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" group-title="2024 Movies",The Painter (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Underdoggs (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj1VRcVsh39nkxLkZP8tuGd96tc.jpg" group-title="2024 Movies",The Underdoggs (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Warchief (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFGOcPh7qzkNhTVH2ER0rTz4mfi.jpg" group-title="2024 Movies",Warchief (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Woman with the Red Lipstick (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqdpjMC42ft167DsWBKkTttNaEh.jpg" group-title="2024 Movies",Woman with the Red Lipstick (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zuckerberg: King of the Metaverse (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLGqnhJaIlXDoavXhspdy8OkMtG.jpg" group-title="2024 Movies",Zuckerberg: King of the Metaverse (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apple Music Live: SZA (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqj7UcsgJhiBfVHEx8uiKmbEzNX.jpg" group-title="2024 Movies",Apple Music Live: SZA (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bosco (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXjSeS3w97setnrNv4m6tlqqXzn.jpg" group-title="2024 Movies",Bosco (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calamity Jane (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XwylJi2GRLAEqhIUb9tf9ue4Hn.jpg" group-title="2024 Movies",Calamity Jane (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cult Killer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSR06FpV1H36OmW0jfEmvG73l2r.jpg" group-title="2024 Movies",Cult Killer (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gilded Newport Mysteries: Murder at the Breakers (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtd4CNHDRNZ4KO0PVHvwoZ9jk3L.jpg" group-title="2024 Movies",Gilded Newport Mysteries: Murder at the Breakers (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mindwash (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbmWEa3hPZByGgJu4xUr2fhLGI3.jpg" group-title="2024 Movies",Mindwash (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Orion and the Dark (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHiXFLMlnl5jBjtfOliapN16yBD.jpg" group-title="2024 Movies",Orion and the Dark (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paging Mr. Darcy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xif74ylXY3bCxTiJHWvBILF1Ey6.jpg" group-title="2024 Movies",Paging Mr. Darcy (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arthur's Whisky (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLInRxGU9kp1o2djoS2xK75Ilmk.jpg" group-title="2024 Movies",Arthur's Whisky (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skeletons in the Closet (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/piK7sqRNjToW7ryMbWEG34vFup5.jpg" group-title="2024 Movies",Skeletons in the Closet (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suncoast (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" group-title="2024 Movies",Suncoast (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Upgraded (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYsdP5QffklSZMXJMy295xTHKmt.jpg" group-title="2024 Movies",Upgraded (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wanted Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmdgdb8biQLLzTjySZLPdK13KwM.jpg" group-title="2024 Movies",Wanted Man (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Scottish Love Scheme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU27y1agaBDnDWgc3ypm1b2qNC0.jpg" group-title="2023 Movies",A Scottish Love Scheme (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After Death (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jftgQ8mYaPFYf0UywgwgqimAkmu.jpg" group-title="2023 Movies",After Death (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Fiction (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57MFWGHarg9jid7yfDTka4RmcMU.jpg" group-title="2023 Movies",American Fiction (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Attack of the Meth Gator (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/td0L3VZvBFPYb6hZ3WTbq0VD9q2.jpg" group-title="2023 Movies",Attack of the Meth Gator (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bitconned (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" group-title="2023 Movies",Bitconned (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camp Hideout (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMqjU9b1VPfGUtunk7slSVt6uvR.jpg" group-title="2023 Movies",Camp Hideout (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destroy All Neighbors (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIpjUy6ACDk8Fc8GkynLcIAPP49.jpg" group-title="2023 Movies",Destroy All Neighbors (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragons on the Hill (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uf0tO7iCNuPyLhS3BHzhxhiRr3q.jpg" group-title="2023 Movies",Dragons on the Hill (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emotions of a Murder (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUZR6Vn83eNKfBWrTNjkGAPLedJ.jpg" group-title="2023 Movies",Emotions of a Murder (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FLOAT! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdelCcwItweTEYTX0sGEaW8JVmp.jpg" group-title="2023 Movies",FLOAT! (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gods of the Deep (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea8609DKrceNJocKEUpDom6mHzx.jpg" group-title="2024 Movies",Gods of the Deep (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I.S.S. (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg" group-title="2024 Movies",I.S.S. (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love on the Right Course (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHTGbieCY8R9CORdA4s2EalrbDQ.jpg" group-title="2023 Movies",Love on the Right Course (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Somewhere Quiet (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMXZmWKjouW7RVGAVUXY8s5NQpd.jpg" group-title="2024 Movies",Somewhere Quiet (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Story Ave (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ND7BIj94JSDhnVKOEcsSDwRLem.jpg" group-title="2023 Movies",Story Ave (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dive (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o43eMkNkWBBsyxEyyUeQwl4AOe.jpg" group-title="2023 Movies",The Dive (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Book of Clarence (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZuq34U1dWuIIWgTa6wZNPeDinS.jpg" group-title="2024 Movies",The Book of Clarence (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dirty South (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIarhkJFX9QURFc0ZD35N2wmqtn.jpg" group-title="2023 Movies",The Dirty South (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dive (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o43eMkNkWBBsyxEyyUeQwl4AOe.jpg" group-title="2023 Movies",The Dive (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Iron Claw (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsdismtCDga4vsKnmliz0h7CaZT.jpg" group-title="2023 Movies",The Iron Claw (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Unlikely Pilgrimage of Harold Fry (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTIa7e5NINQ2oIHY9UXCk7fyVIC.jpg" group-title="2023 Movies",The Unlikely Pilgrimage of Harold Fry (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Williams & Mansell: Red 5 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtBMLT6qb0r6bvYiS1Jcop2pyIx.jpg" group-title="2023 Movies",Williams & Mansell: Red 5 (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Creature Was Stirring (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikQG3byEFyfwcnF0zmyNtXTmr5v.jpg" group-title="2023 Movies",A Creature Was Stirring (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Priscilla (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikQG3byEFyfwcnF0zmyNtXTmr5v.jpg" group-title="2023 Movies",Priscilla (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Wolverine (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikQG3byEFyfwcnF0zmyNtXTmr5v.jpg" group-title="2020 Movies",The Wolverine (2013)
+http://cord-cutter.net:8080/movie/Test/Test/213185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men Origins: Wolverine (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikQG3byEFyfwcnF0zmyNtXTmr5v.jpg" group-title="2020 Movies",X-Men Origins: Wolverine (2009)
+http://cord-cutter.net:8080/movie/Test/Test/213186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Air Force One Down (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKPoSD4pZ3s3CJ9g3cqWRcQ41TC.jpg" group-title="2024 Movies",Air Force One Down (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beautiful Wedding (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akeFUumA7BEE2QjybMNsdYlRGdV.jpg" group-title="2024 Movies",Beautiful Wedding (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marmalade (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VyR8YGnUKxRzKMynlxxncfVRIo.jpg" group-title="2024 Movies",Marmalade (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Open Wide (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ba0vZOv8Gv0MmsM0GkCGvFQp0Dr.jpg" group-title="2024 Movies",Open Wide (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Players (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdD4rdpjtxtb3WPS7ig6vetphu3.jpg" group-title="2024 Movies",Players (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Taylor Tomlinson: Have It All (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHsbWXfhVk53azsXICJGzn2imMg.jpg" group-title="2024 Movies",Taylor Tomlinson: Have It All (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Einstein and the Bomb (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHsbWXfhVk53azsXICJGzn2imMg.jpg" group-title="2024 Movies",Einstein and the Bomb (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Land of Bad (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHsbWXfhVk53azsXICJGzn2imMg.jpg" group-title="2024 Movies",Land of Bad (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miller's Girl (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aygFQeDmmtlArzo8epmsOg9mz9f.jpg" group-title="2024 Movies",Miller's Girl (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy Presents: Welcome Home, Franklin (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjIrYzc31kHTySiovHAt0o3qDc2.jpg" group-title="2024 Movies",Snoopy Presents: Welcome Home, Franklin (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Marvels (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg" group-title="2024 Movies",The Marvels (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="They Called Him Mostly Harmless (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3Ngi39RT9kxTPyGN5CwK2XEZrk.jpg" group-title="2024 Movies",They Called Him Mostly Harmless (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="This Is Me…Now (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxx0krg13e0k2c2RLoOvxJCEQQy.jpg" group-title="2024 Movies",This Is Me…Now (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bleeding Love (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3s6n7XtZqepNA1Mv32cvwSfGX8.jpg" group-title="2024 Movies",Bleeding Love (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Box: Metaphor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91YJFHdTTF24Vab33XbToAh3TOo.jpg" group-title="2023 Movies",Box: Metaphor (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dream Scenario (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RSMu2iMDCdMKmvBWWvcmE8vjMj.jpg" group-title="2023 Movies",Dream Scenario (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="In the Land of Saints and Sinners (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3IjVpdWEuhZJPxNnmi9muvQVSk.jpg" group-title="2023 Movies",In the Land of Saints and Sinners (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ripper's Revenge (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuEIBHTWAvaYkhhS8HfOkhce2MB.jpg" group-title="2023 Movies",Ripper's Revenge (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Good Mother (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDyQ6hhOTpXfzqxfzLzZuKUrhYC.jpg" group-title="2023 Movies",The Good Mother (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Space Race (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k92rpuDXYxdy4c4LHMNNhU12lov.jpg" group-title="2023 Movies",The Space Race (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lights Out (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/usDIBB0hOqLM8wMSGistfqxjukZ.jpg" group-title="2024 Movies",Lights Out (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Way Up (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rieMzC6JJoMVbsaUv6Rzj0fR7Px.jpg" group-title="2024 Movies",No Way Up (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freud's Last Session (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mp7IBxFuvNZSVOOGESybvaPxd7y.jpg" group-title="2023 Movies",Freud's Last Session (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Memory (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mp7IBxFuvNZSVOOGESybvaPxd7y.jpg" group-title="2023 Movies",Memory (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Migration (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldfCF9RhR40mppkzmftxapaHeTo.jpg" group-title="2023 Movies",Migration (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Zone of Interest (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbFtI353N2Pggl5TxfsI2VtpUt8.jpg" group-title="2023 Movies",The Zone of Interest (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chosen One: Alexandre Daigle (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8YsVQhMQN7KzJL5cOt0d1Vtx7M.jpg" group-title="2024 Movies",Chosen One: Alexandre Daigle (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Giannis: The Marvelous Journey (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heOqng8QyxEFOuHdF6p4HGw70Zn.jpg" group-title="2024 Movies",Giannis: The Marvelous Journey (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sidemen Story (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8RHWj0sk7dZv2JvTXBrXqynxLc.jpg" group-title="2024 Movies",The Sidemen Story (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tag (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg" group-title="2020 Movies",Tag (2018)
+http://cord-cutter.net:8080/movie/Test/Test/213618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Earworm (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg" group-title="2024 Movies",Earworm (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="History of Evil (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y21OxLwcmMrxiMRkAnritHDVwC7.jpg" group-title="2024 Movies",History of Evil (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jenny Slate: Seasoned Professional (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQx7kF78GDEgjJtCCqsGU2vaUwN.jpg" group-title="2024 Movies",Jenny Slate: Seasoned Professional (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mea Culpa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" group-title="2024 Movies",Mea Culpa (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red Right Hand (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQmvIr5AGcqVIzlgozQrTcIvFLg.jpg" group-title="2024 Movies",Red Right Hand (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Night They Came Home (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Bd17axAG0qJ6YIU3SoootXV0Cz.jpg" group-title="2024 Movies",The Night They Came Home (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Camp Pleasant Lake (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO4ok0SkjbTfLCICxx0uMzOBoEJ.jpg" group-title="2024 Movies",Camp Pleasant Lake (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Code 8 Part II (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO4ok0SkjbTfLCICxx0uMzOBoEJ.jpg" group-title="2024 Movies",Code 8 Part II (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kids Are Growing Up: A Story About a Kid Named Laroi (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5NojEVANgkAhsaBpbN5a29WuaP.jpg" group-title="2024 Movies",Kids Are Growing Up: A Story About a Kid Named Laroi (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lisa Frankenstein (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5NojEVANgkAhsaBpbN5a29WuaP.jpg" group-title="2024 Movies",Lisa Frankenstein (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lola (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5NojEVANgkAhsaBpbN5a29WuaP.jpg" group-title="2024 Movies",Lola (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megamind vs. the Doom Syndicate (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5NojEVANgkAhsaBpbN5a29WuaP.jpg" group-title="2024 Movies",Megamind vs. the Doom Syndicate (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parallel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5NojEVANgkAhsaBpbN5a29WuaP.jpg" group-title="2024 Movies",Parallel (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pathological: The Lies of Joran van der Sloot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNR7VwXSm0gJszcaKBFA2prNBMz.jpg" group-title="2024 Movies",Pathological: The Lies of Joran van der Sloot (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sacred Soil: The Piney Woods School Story (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9i59qY6r3uwr0Ke8U94Q8jxBi5P.jpg" group-title="2024 Movies",Sacred Soil: The Piney Woods School Story (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spaceman (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f46WvKEsBn98WJbPJcO47ZoKn6B.jpg" group-title="2024 Movies",Spaceman (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Greatest Love Story Never Told (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlE6VWT6wOGksfE1C8RuH80RGK7.jpg" group-title="2024 Movies",The Greatest Love Story Never Told (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Good Person (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlE6VWT6wOGksfE1C8RuH80RGK7.jpg" group-title="2023 Movies",A Good Person (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Revolution on Canvas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vdsK3awMByWQIdfugO0MRiuegV.jpg" group-title="2023 Movies",A Revolution on Canvas (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amityville Ripper (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkUxDIMqRMTY1hm2WpWCe3xP2Qe.jpg" group-title="2023 Movies",Amityville Ripper (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anyone But You (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qHoazZiaLe7oFBok7XlUhg96f2.jpg" group-title="2023 Movies",Anyone But You (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Battle Over Britain (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgpSAwwdHls1JDY1YgcH0NQL5AS.jpg" group-title="2023 Movies",Battle Over Britain (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dark Windows (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hANd38mgGlOzA3lt12vfXMZbj90.jpg" group-title="2023 Movies",Dark Windows (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dead Shot (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLMzL9cpBBnkMGF8j4Z5Dbi2Z5u.jpg" group-title="2023 Movies",Dead Shot (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="First Responders in Crisis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pefoNTFePWRZr6demgqNgeDv3ge.jpg" group-title="2023 Movies",First Responders in Crisis (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frogman (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgAHquo8Bt0ub0ru3QLiyrhGltW.jpg" group-title="2023 Movies",Frogman (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iceman: A George Gervin Story (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4ueBQC7LpYTnc0bTzD0eHCIstU.jpg" group-title="2023 Movies",Iceman: A George Gervin Story (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Late Checkout (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Mtv1xBTOIzPBL38oh7DN5IJ8A4.jpg" group-title="2023 Movies",Late Checkout (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merry Good Enough (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncEhMtXATHMclVYdaoPxqmjZYro.jpg" group-title="2023 Movies",Merry Good Enough (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miranda's Victim (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82lu2Rb0MoBpfyUtoVwhLiVrDlF.jpg" group-title="2023 Movies",Miranda's Victim (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Dead Reckoning Part One (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NNxYkU70HPurnNCSiCjYAmacwm.jpg" group-title="2023 Movies",Mission: Impossible - Dead Reckoning Part One (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night Shift (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu4gRjjeJqf1jmtMOlC0e1lmLt5.jpg" group-title="2023 Movies",Night Shift (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Origin (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jM7PTHpqoeC5ipyDupXP6QLjhGP.jpg" group-title="2023 Movies",Origin (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Safehouse (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZiBt1iw53LhQ2v2TCiGp0WHqQD.jpg" group-title="2023 Movies",Safehouse (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scrambled.2023.720p.WEBRip.x264.AAC-[YTS.MX]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZiBt1iw53LhQ2v2TCiGp0WHqQD.jpg" group-title="2023 Movies",Scrambled.2023.720p.WEBRip.x264.AAC-[YTS.MX]
+http://cord-cutter.net:8080/movie/Test/Test/213859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Someone Lives Here (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NxulkwA3QGwOiypHiLDjK9sy3f.jpg" group-title="2023 Movies",Someone Lives Here (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sometimes I Think About Dying (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qy3ebryFg9QOX6F77iv5pG3gfwr.jpg" group-title="2024 Movies",Sometimes I Think About Dying (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bad Guys: A Very Bad Holiday (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atBDD05PbVDI2lm2OUy1KFQpzen.jpg" group-title="2023 Movies",The Bad Guys: A Very Bad Holiday (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Cape (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJRWTFGnyDuyDlBrMuKAP7ek4Jt.jpg" group-title="2023 Movies",The Cape (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Royal Hotel (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4obRUZWfQjAygC7FiDqSO1iBBm.jpg" group-title="2023 Movies",The Royal Hotel (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Seeding (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMHvmhKlyyyCWLc3sCxY9wQ0Gai.jpg" group-title="2024 Movies",The Seeding (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sweet East (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWUL6hvWBElm4jrpqag8vDXELcg.jpg" group-title="2023 Movies",The Sweet East (2023)
+http://cord-cutter.net:8080/movie/Test/Test/213868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Weak Layers (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnRdx0RG4RF2nMdSN6uTMvXzGVa.jpg" group-title="2024 Movies",Weak Layers (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="5lbs of Pressure (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toEJOPYvM7Na0XwM8exg8aHq553.jpg" group-title="2024 Movies",5lbs of Pressure (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aftermath (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jVwnnSD4YxkGZM1F6RdLAu8Ayy.jpg" group-title="2024 Movies",Aftermath (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Argylle (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95VlSEfLMqeX36UVcHJuNlWEpwf.jpg" group-title="2024 Movies",Argylle (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As We Speak: Rap Music on Trial (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JnegXpSsxbghd7suwovP2PdDqv.jpg" group-title="2024 Movies",As We Speak: Rap Music on Trial (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Butchers Book Two: Raghorn (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSLYBuDTHpTAJI9vcm2brMu4J9H.jpg" group-title="2024 Movies",Butchers Book Two: Raghorn (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Damsel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMp34cNKjIb18UBOCoAv4DpCxwY.jpg" group-title="2024 Movies",Damsel (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drive-Away Dolls (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gavGnAMTXPkpoFgG0stwgIgKb64.jpg" group-title="2024 Movies",Drive-Away Dolls (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drugstore June (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbWcd3e5ooHEmiJnEmRE8sE3bOP.jpg" group-title="2024 Movies",Drugstore June (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Frankenstein: Legacy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnqyaHpZ7CpgKBlmBgbgqyKicJX.jpg" group-title="2024 Movies",Frankenstein: Legacy (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hunting Housewives (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pfNtcs5xpaVfd0eZ751Gg7q6Nn.jpg" group-title="2024 Movies",Hunting Housewives (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mike Epps: Ready to Sell Out (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyyl6QtYhZIc6Rs3tnN1M6c4Bjs.jpg" group-title="2024 Movies",Mike Epps: Ready to Sell Out (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Murdaritaville (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juMRx6cWDRif2Q8yc9GqpoKkt9V.jpg" group-title="2024 Movies",Murdaritaville (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planetquake (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5szPceoDBlWf5T1LEJSY0WRX3BM.jpg" group-title="2024 Movies",Planetquake (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ricky Stanicky (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg" group-title="2024 Movies",Ricky Stanicky (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Phantom Warrior (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AesxH5I0wBBuHhu68E7yhaCdm.jpg" group-title="2024 Movies",The Phantom Warrior (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Thundermans Return (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2J5eeroLDY0d45mVjpuGhcLZs3W.jpg" group-title="2024 Movies",The Thundermans Return (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="unDEFILED (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ODfAZsWTj1xXlwdsZC4EAmh98b.jpg" group-title="2024 Movies",unDEFILED (2024)
+http://cord-cutter.net:8080/movie/Test/Test/213887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="500 Days in the Wild (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcOTtSjpdSaMldbBTiGCVUIcsk4.jpg" group-title="2024 Movies",500 Days in the Wild (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cold Meat (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7XIIFcDxSk6XqG9Rek6h9q6KU58.jpg" group-title="2024 Movies",Cold Meat (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I.S.S. (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg" group-title="2023 Movies",I.S.S. (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stopmotion (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg" group-title="2024 Movies",Stopmotion (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crimes of Fashion: Killer Clutch (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86zUodyIGY6csKQ6mKkFMvPxUIX.jpg" group-title="2024 Movies",Crimes of Fashion: Killer Clutch (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Friday Night Sext Scandal (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yj7kE4BQProIdqzzMuzURTVoiVM.jpg" group-title="2024 Movies",Friday Night Sext Scandal (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irish Wish (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg" group-title="2024 Movies",Irish Wish (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jonah (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhaJGTfYNaof7uxSsUEyeH01NKB.jpg" group-title="2024 Movies",Jonah (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Little Wing (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEMc5IK3rkAtKCMhzBe3CX2Wpds.jpg" group-title="2024 Movies",Little Wing (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madame Web (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg" group-title="2024 Movies",Madame Web (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hobby (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcJBN4wBSa9ZZUmyw75R8UzT3c9.jpg" group-title="2024 Movies",The Hobby (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Axegrinder 666 (2023)" tvg-logo="" group-title="2023 Movies",Axegrinder 666 (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blood and Snow (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIfnZlNwROZjPdjvn38gF5FMFKg.jpg" group-title="2023 Movies",Blood and Snow (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Felines (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDsdFrKkEGaQ0ki3NHB20W8qDRU.jpg" group-title="2023 Movies",Felines (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night of the Hunted (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Qp56VFCXiVJNNUstPc0BOqLfko.jpg" group-title="2023 Movies",Night of the Hunted (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="On Fire (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ms0zRAMtbVq5XoIfrlcSj84g6G.jpg" group-title="2023 Movies",On Fire (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Room 0 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTpZnL9OsGJfoIKk61BnrmHEaZw.jpg" group-title="2024 Movies",Room 0 (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Secret Society 3: 'Til Death (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpgwF9su1SSxIUlvJC1Xnofj5kq.jpg" group-title="2023 Movies",Secret Society 3: 'Til Death (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TAYLOR SWIFT | THE ERAS TOUR (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf3YO8hOqGHCupsREf5qymYq1n.jpg" group-title="2023 Movies",TAYLOR SWIFT | THE ERAS TOUR (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tell Them You Love Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HTzHxoCDMwBknyCAi9kFeClqAI.jpg" group-title="2023 Movies",Tell Them You Love Me (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tribal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zX2FShZsBAkCNg8OdHoj4OGnYR.jpg" group-title="2023 Movies",Tribal (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="96th.Annual.Academy.Awards.2024.720p.WEBRip.x264.AAC-[YTS.MX]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zX2FShZsBAkCNg8OdHoj4OGnYR.jpg" group-title="2024 Movies",96th.Annual.Academy.Awards.2024.720p.WEBRip.x264.AAC-[YTS.MX]
+http://cord-cutter.net:8080/movie/Test/Test/214266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bob Marley: One Love (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eWeXswkAUIvdVWFvPrUFu2TxuI.jpg" group-title="2024 Movies",Bob Marley: One Love (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freaknik: The Wildest Party Never Told (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aZbOI0EbIloc4Huuf5JdPbFrUD.jpg" group-title="2024 Movies",Freaknik: The Wildest Party Never Told (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prey (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wAlO5zZ3IyzLBAf7cp5WejalmG.jpg" group-title="2024 Movies",Prey (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Secret Society 3: 'Til Death (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpgwF9su1SSxIUlvJC1Xnofj5kq.jpg" group-title="2024 Movies",Secret Society 3: 'Til Death (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TAYLOR SWIFT | THE ERAS TOUR (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf3YO8hOqGHCupsREf5qymYq1n.jpg" group-title="2024 Movies",TAYLOR SWIFT | THE ERAS TOUR (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The.Alien.Report.2023.720p.WEBRip.x264.AAC-[YTS.MX]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf3YO8hOqGHCupsREf5qymYq1n.jpg" group-title="2024 Movies",The.Alien.Report.2023.720p.WEBRip.x264.AAC-[YTS.MX]
+http://cord-cutter.net:8080/movie/Test/Test/214273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Road House (2024)" tvg-logo="" group-title="2024 Movies",Road House (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beyond the Aggressives: 25 Years Later (2023)" tvg-logo="" group-title="2023 Movies",Beyond the Aggressives: 25 Years Later (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Even Hell Has Its Heroes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRJO89rg79kUh8B7CvqbSY1aQMR.jpg" group-title="2023 Movies",Even Hell Has Its Heroes (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haunting of the Queen Mary (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RFvrTSYBSDZWIprcFonf8dXg3R.jpg" group-title="2023 Movies",Haunting of the Queen Mary (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Island of the Dolls (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8FUbg4SnvMXZx4rlkuK7FB6266.jpg" group-title="2023 Movies",Island of the Dolls (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lousy Carter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/leL5Ri7CSaThIlY0U55Iu4KXxPn.jpg" group-title="2024 Movies",Lousy Carter (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night of the Hunted (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Qp56VFCXiVJNNUstPc0BOqLfko.jpg" group-title="2023 Movies",Night of the Hunted (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rob Schneider: Woke Up in America (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjHoTknFCPrtmd1pvHpUvBssiqy.jpg" group-title="2023 Movies",Rob Schneider: Woke Up in America (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silver Haze (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mSdBEUjmkCytuEmCuTCvkZIF0d.jpg" group-title="2023 Movies",Silver Haze (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Devil's Left Hand (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gTRmv7CIMVxQ4JpOiCxNJzHYOS.jpg" group-title="2023 Movies",The Devil's Left Hand (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Stones and Brian Jones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiBLSBoyJdAS5dpVCNfYRPLFaGH.jpg" group-title="2023 Movies",The Stones and Brian Jones (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Truth vs. Alex Jones (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fbfpfAiN81knlV0gi0XyQnk7bS.jpg" group-title="2024 Movies",The Truth vs. Alex Jones (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uproar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOjGR9qN94IjrG5FJpIlygynsnp.jpg" group-title="2023 Movies",Uproar (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wonderwell (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deoxTZeVAULpVvbbxrNxAcyHAkk.jpg" group-title="2023 Movies",Wonderwell (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dave Attell: Hot Cross Buns (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSBpX8O9VFXujGj3jIedbbKo1J2.jpg" group-title="2024 Movies",Dave Attell: Hot Cross Buns (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Easter Bloody Easter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tGYZlPttiOjEe61GvszRcrnpEi.jpg" group-title="2024 Movies",Easter Bloody Easter (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Easter Evil (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSh59r0xFthlA7fl3mwSUVdpUXU.jpg" group-title="2024 Movies",Easter Evil (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Good One: A Show About Jokes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kWHOEH6tOSAtI2tv9ZvLfqJEsM.jpg" group-title="2024 Movies",Good One: A Show About Jokes (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heart of the Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n726fdyL1dGwt15bY7Nj3XOXc4Q.jpg" group-title="2024 Movies",Heart of the Hunter (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imaginary (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg" group-title="2024 Movies",Imaginary (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madu (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kF738LTEcnAp7IEpKAfMf9ejGOA.jpg" group-title="2024 Movies",Madu (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ordinary Angels (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdi9kEU4W2UeBTtdqOPZISGMtDR.jpg" group-title="2024 Movies",Ordinary Angels (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sentinel (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbz1Pn6ZFPl6WHFFEaYu4XhkR2t.jpg" group-title="2024 Movies",Sentinel (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snow Valley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avet7KbWhIwwhHZ4JSnbSpEzeTX.jpg" group-title="2024 Movies",Snow Valley (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spermworld (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOMSk7MKMKHdaCahxM7UDo2jdCL.jpg" group-title="2024 Movies",Spermworld (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stormy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WdElBdccL5RbJOWjUErFolaaqz.jpg" group-title="2024 Movies",Stormy (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Beautiful Game (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Laz0p3Qg47vI2XIalpL2SlNUDI.jpg" group-title="2024 Movies",The Beautiful Game (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tig Notaro: Hello Again (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mToF5fyHdRcyBYl3Qn09rLGrhPU.jpg" group-title="2024 Movies",Tig Notaro: Hello Again (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Windcatcher (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaGZN9QVWr130Ew07rLFAXVxxvh.jpg" group-title="2024 Movies",Windcatcher (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Firenado (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaGZN9QVWr130Ew07rLFAXVxxvh.jpg" group-title="2023 Movies",Firenado (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LaRoy, Texas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKrj4bpbDG3xumZDJKptMpYHJL.jpg" group-title="2024 Movies",LaRoy, Texas (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lies We Tell (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKrj4bpbDG3xumZDJKptMpYHJL.jpg" group-title="2023 Movies",Lies We Tell (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parachute (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vv0YaKfXVIX1heRGXlYYZDdlO38.jpg" group-title="2024 Movies",Parachute (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pure O (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk946cevYzL6uPHuXk3H0Z0d0BN.jpg" group-title="2024 Movies",Pure O (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Riddle of Fire (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjBbl4iLk3Zj5erRq4FjlyyTrWu.jpg" group-title="2024 Movies",Riddle of Fire (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Edelman: Just for Us (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUFBY1vF4sCHVTv1Oy9s23269Or.jpg" group-title="2024 Movies",Alex Edelman: Just for Us (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blind Date Book Club (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fwY72YdYuQW8hzC3bQXFVc8QRi.jpg" group-title="2024 Movies",Blind Date Book Club (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brandy Hellville & the Cult of Fast Fashion (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zoPi0A6W4HwrBxl4W1UVXAaNwa.jpg" group-title="2024 Movies",Brandy Hellville & the Cult of Fast Fashion (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breathe (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg" group-title="2024 Movies",Breathe (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Damaged (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg" group-title="2024 Movies",Damaged (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dune: Part Two (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg" group-title="2024 Movies",Dune: Part Two (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Girls State (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hD1oCssH4GMGrzUljlVpydQFbGx.jpg" group-title="2024 Movies",Girls State (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="How to Date Billy Walsh (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qcHcoJL3otMwJPKnbV5M3a1jQd.jpg" group-title="2024 Movies",How to Date Billy Walsh (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Junction (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yg2ihSPbqy7B7V74VXBBTY1MVmu.jpg" group-title="2024 Movies",Junction (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1THOJsxIj3fqfYewAgIYZp7BfjG.jpg" group-title="2024 Movies",Kung Fu Panda 4 (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Last Night at Terrace Lanes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfemJpiNxtBlL726AxNVAjbqzvv.jpg" group-title="2024 Movies",Last Night at Terrace Lanes (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lisa Frankenstein (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="2024 Movies",Lisa Frankenstein (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Million Dollar Lethal Listing (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaHv547062Sj6AB1t5BK5eTGKQv.jpg" group-title="2024 Movies",Million Dollar Lethal Listing (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster Mash (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkO5dkldULotBPjbgznzXlHjSFs.jpg" group-title="2024 Movies",Monster Mash (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Música (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg" group-title="2024 Movies",Música (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Neal Brennan: Crazy Good (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwW5GGyfaaKzheCRQBv7UbOuwha.jpg" group-title="2024 Movies",Neal Brennan: Crazy Good (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night Swim (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg" group-title="2024 Movies",Night Swim (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scoop (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agWt9bJzr2m1HY3A5InxXveUyIe.jpg" group-title="2024 Movies",Scoop (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sleeping Dogs (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DwQhh1HvTo7edaOeMX49NUyZqy.jpg" group-title="2024 Movies",Sleeping Dogs (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snack Shack (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg" group-title="2024 Movies",Snack Shack (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strictly Confidential (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7HYUG9osY4Y1i3tuZnfjIqY7qP.jpg" group-title="2024 Movies",Strictly Confidential (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The American Society of Magical Negroes (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZfxNBZam3VJxen7XTVzd4FVJZ8.jpg" group-title="2024 Movies",The American Society of Magical Negroes (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Antisocial Network: Memes to Mayhem (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlJKsIzkSU629hEhbRzRb1cSxA1.jpg" group-title="2024 Movies",The Antisocial Network: Memes to Mayhem (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Night The World Ends (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFCLyIw0tCBA3X3BYlzL2FBuOE0.jpg" group-title="2024 Movies",The Night The World Ends (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="They Turned Us Into Killers (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bO0CCQ9YYbP0Zpyv61Vx2CnQ4Et.jpg" group-title="2024 Movies",They Turned Us Into Killers (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Woody Woodpecker Goes to Camp (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJsgT0jBw5q2g82dzZcLgYrROTs.jpg" group-title="2024 Movies",Woody Woodpecker Goes to Camp (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Tribe Called Judah (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aMG2ftIFqFAN69FdjovKJY0hsd.jpg" group-title="2023 Movies",A Tribe Called Judah (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Accidental Texan (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6c4v8x9xHHLX5FRTUewLNLwj1M8.jpg" group-title="2024 Movies",Accidental Texan (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All You Need Is Death (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiEkGNiXPKgyRGyqy3MfCVEoRx1.jpg" group-title="2024 Movies",All You Need Is Death (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asphalt City (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg" group-title="2024 Movies",Asphalt City (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Hombres (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg" group-title="2023 Movies",Bad Hombres (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blackout (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsE1gbwpeWKr12altKrB6iUyO79.jpg" group-title="2022 Movies",Blackout (2022)
+http://cord-cutter.net:8080/movie/Test/Test/214790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blood for Dust (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvaCnkl8RilLhVAQXPFei0tqkqW.jpg" group-title="2024 Movies",Blood for Dust (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corners of the Earth: Kamchatka (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvaCnkl8RilLhVAQXPFei0tqkqW.jpg" group-title="2023 Movies",Corners of the Earth: Kamchatka (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Downtown Owl (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvaCnkl8RilLhVAQXPFei0tqkqW.jpg" group-title="2023 Movies",Downtown Owl (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flying for the Flag (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GpWCxetviKwAahWj0A1wAixL8b.jpg" group-title="2023 Movies",Flying for the Flag (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Food, Inc. 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifY6cHenWXsfI2LRV3DqX659tEC.jpg" group-title="2024 Movies",Food, Inc. 2 (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hanky Panky (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQHbLzTYmXAKIT0m5SH8w8xHYMu.jpg" group-title="2023 Movies",Hanky Panky (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Late Night with the Devil (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg" group-title="2024 Movies",Late Night with the Devil (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Jurassic Park: The Unofficial Retelling (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSq8TrEqz8NRyWJSviteKE1t249.jpg" group-title="2023 Movies",LEGO Jurassic Park: The Unofficial Retelling (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Life (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvnIWt2j8VnDgwKJE2VMiFMa2Qo.jpg" group-title="2023 Movies",One Life (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Problemista (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2m67ZeGJdQmgFgUSsYCEaCKkCMx.jpg" group-title="2024 Movies",Problemista (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bricklayer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36pYugctLa70NmwMEgXTR1G31Kq.jpg" group-title="2023 Movies",The Bricklayer (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Channel (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg" group-title="2023 Movies",The Channel (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Time Addicts (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTRfeB6TOupCpQ7lfTCYVE3Dzi.jpg" group-title="2023 Movies",Time Addicts (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trinket Box (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBPTRWIjnL1UAkn7AmnF19QABx.jpg" group-title="2023 Movies",Trinket Box (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Bird (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BS7e6MiWlgemAwHCaRCt41Zp3x.jpg" group-title="2024 Movies",White Bird (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="William Shatner: You Can Call Me Bill (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58laDjeJTwPEOhViu0SmAHXiRha.jpg" group-title="2024 Movies",William Shatner: You Can Call Me Bill (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chef's Deadly Revenge (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58laDjeJTwPEOhViu0SmAHXiRha.jpg" group-title="2024 Movies",A Chef's Deadly Revenge (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arthur the King (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg" group-title="2024 Movies",Arthur the King (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Branching Out (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCABSyppCLK35AlzPnhZIkMJW8v.jpg" group-title="2024 Movies",Branching Out (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cash Out (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3youHDLigrtIis1NqTjlY8Sk38.jpg" group-title="2024 Movies",Cash Out (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drive-Away Dolls (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gavGnAMTXPkpoFgG0stwgIgKb64.jpg" group-title="2024 Movies",Drive-Away Dolls (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Falling in Love in Niagara (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hq6rtJ6uaTmmRPDkelnbpz5WQW.jpg" group-title="2024 Movies",Falling in Love in Niagara (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Lies Bleeding (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7jyFWiLyHPttqYBFAlLJwtYTYH.jpg" group-title="2024 Movies",Love Lies Bleeding (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mean Girls (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg" group-title="2024 Movies",Mean Girls (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg" group-title="2024 Movies",Monkey Man (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Mercury (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AJwxLPagG2S08j9NJlwbwMHaQ3.jpg" group-title="2024 Movies",My Mercury (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saving Sakic (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzBYD0s7FqLoxH77Tx4X7bSMm7K.jpg" group-title="2024 Movies",Saving Sakic (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Dreams (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1TyT5umEoAM2SXQIp7OwNBn7Hv.jpg" group-title="2024 Movies",Sweet Dreams (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The First Omen (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIzk6GhxEZuweekGFXWEoAyuaMX.jpg" group-title="2024 Movies",The First Omen (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tigers on the Rise (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho4EXQLuDnIqTNGIKB34rzQ6euH.jpg" group-title="2024 Movies",Tigers on the Rise (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dangerous Waters (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIMbYsYVD2brZUTqc2LIoQRAXr6.jpg" group-title="2023 Movies",Dangerous Waters (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ready Player One (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg" group-title="2020 Movies",Ready Player One (2018)
+http://cord-cutter.net:8080/movie/Test/Test/214968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Romance at the Vineyard (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAAfDFDSa6Gp6At6SHmfKJjhKHw.jpg" group-title="2023 Movies",Romance at the Vineyard (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stockholm Bloodbath (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FRaBsmC2dWzK7dOmIpt4QzeesX.jpg" group-title="2024 Movies",Stockholm Bloodbath (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Color Purple (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg" group-title="2023 Movies",The Color Purple (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Job of Songs (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAV58ji9wieZ4fsP0hQzePTb4W4.jpg" group-title="2020 Movies",The Job of Songs (2021)
+http://cord-cutter.net:8080/movie/Test/Test/214972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Pod Generation (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTKQ4VWZnAVzvImw5PCoV20sizs.jpg" group-title="2023 Movies",The Pod Generation (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Million Days (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZhM5tDuoKyEs76lvvBM7nWdkfe.jpg" group-title="2023 Movies",A Million Days (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All Fun and Games (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m0CTxlotr8H8GaoioL2IJHL1gW.jpg" group-title="2023 Movies",All Fun and Games (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby Shark's Big Movie (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pF9Y5H5x94Tuo6xAZBCrGG8Wvq5.jpg" group-title="2024 Movies",Baby Shark's Big Movie (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Sky River: The Bridal Path (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frKhWX7Dd1VmB82uuePhGbQCvdK.jpg" group-title="2023 Movies",Big Sky River: The Bridal Path (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Candid About Love (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/galn064gL892stkdYbJXDmwmoRV.jpg" group-title="2023 Movies",Candid About Love (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catching Fire: The Story of Anita Pallenberg (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mO41UPBGnb5kOKmiaXaeVPMzLyT.jpg" group-title="2024 Movies",Catching Fire: The Story of Anita Pallenberg (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DC Down (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DyAgM340pP402ABl1Jt0uQ7tgZ.jpg" group-title="2023 Movies",DC Down (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Finding the Money (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgggpYvywt27ntQWqvPrJja44oG.jpg" group-title="2023 Movies",Finding the Money (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Founders Day (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohzLPC9lHUWseBgB7HRcz0GBkFb.jpg" group-title="2024 Movies",Founders Day (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Incendies (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5GsLIII66LubmOai65cWiB4kZq.jpg" group-title="2023 Movies",Incendies (2010)
+http://cord-cutter.net:8080/movie/Test/Test/214984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kiss the Future (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98FcXwcOnylR4iYPLySHWLP7hKy.jpg" group-title="2024 Movies",Kiss the Future (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New Life (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRiyTitOLd3I9wvNtrVs7JHMQXz.jpg" group-title="2023 Movies",New Life (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resurrected (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCPm0mfcOdpLgtfFFkWoq62ko0i.jpg" group-title="2023 Movies",Resurrected (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ruthless (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ndp1pnHWRuiZLNpFJvO4Kh6Tav.jpg" group-title="2023 Movies",Ruthless (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Contestant (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6jHYpie6VEW68mnxfHVRZo0Xm6.jpg" group-title="2023 Movies",The Contestant (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Piper (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A92IidYEd25UHJGh4baSsTcJ650.jpg" group-title="2023 Movies",The Piper (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Portable Door (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15XCSwlniUZQOW7vD6tPM5e30wr.jpg" group-title="2023 Movies",The Portable Door (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Three Dates to Forever (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bh8ySBxrCSkLX540Hy7NDW1CD13.jpg" group-title="2023 Movies",Three Dates to Forever (2023)
+http://cord-cutter.net:8080/movie/Test/Test/214992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abigail (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qxG0zyt29BI0IzFDfsps62kbQi.jpg" group-title="2024 Movies",Abigail (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arnold & Sly: Rivals, Friends, Icons (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LGiYX7vR0Tnk7YNJ7Wx8C1VVX9.jpg" group-title="2024 Movies",Arnold & Sly: Rivals, Friends, Icons (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bloodline Killer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHmzCQwBzT6m8wtZdXHOIITn82B.jpg" group-title="2024 Movies",Bloodline Killer (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Call Me Country: Beyoncé & Nashville's Renaissance (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QSYbEsEL6JO7Kp9Zkjd804tlC1.jpg" group-title="2024 Movies",Call Me Country: Beyoncé & Nashville's Renaissance (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curious Caterer: Foiled Plans (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0ZUVu5NwoOuQSeTvR1oUEFxoeH.jpg" group-title="2024 Movies",Curious Caterer: Foiled Plans (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Darkness of Man (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsj5oYBRoF5PuTYrfe1Hw6fsxfG.jpg" group-title="2024 Movies",Darkness of Man (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fern Brady: Autistic Bikini Queen (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FPFt4m645GqhA1p5NzE6SH3si.jpg" group-title="2024 Movies",Fern Brady: Autistic Bikini Queen (2024)
+http://cord-cutter.net:8080/movie/Test/Test/214999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters: Frozen Empire (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg" group-title="2024 Movies",Ghostbusters: Frozen Empire (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hip-Hop and the White House (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inMcgysVTYMFpmEDjrap9AsE3Is.jpg" group-title="2024 Movies",Hip-Hop and the White House (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jack Whitehall: Settle Down (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hj7gJ33mocBxB7sqzX4tjaYRow.jpg" group-title="2024 Movies",Jack Whitehall: Settle Down (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jade (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz6vvVSNPxuvEHKagfdvoVLz8yb.jpg" group-title="2024 Movies",Jade (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Justice League: Crisis on Infinite Earths Part Two (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg" group-title="2024 Movies",Justice League: Crisis on Infinite Earths Part Two (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Katt Williams: Woke Foke (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hjgAEcu8JEpeF7KEtmjTzPFD3uL.jpg" group-title="2024 Movies",Katt Williams: Woke Foke (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mother of the Bride (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdTvwykMWvVgdaViBVRh8IFTku5.jpg" group-title="2024 Movies",Mother of the Bride (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Bad Apple: A Hannah Swensen Mystery (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJcWag9R2KJt0LNumv2rs24u9Mo.jpg" group-title="2024 Movies",One Bad Apple: A Hannah Swensen Mystery (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebel Moon - Part Two: The Scargiver (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxevDYdeFkiixRShbObdwAHBZry.jpg" group-title="2024 Movies",Rebel Moon - Part Two: The Scargiver (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saving Bikini Bottom: The Sandy Cheeks Movie (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0uCO1e0aIVugsglkaXLSXo135e.jpg" group-title="2024 Movies",Saving Bikini Bottom: The Sandy Cheeks Movie (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Final: Attack on Wembley (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XQ1WAbqhBMrEB1UAEiB8Hpy5Ge.jpg" group-title="2024 Movies",The Final: Attack on Wembley (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Roast of Tom Brady (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guph6RgrrQSDQpDckGaIHLS5wzg.jpg" group-title="2024 Movies",The Roast of Tom Brady (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sixth (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asDTwKxL6OHcLacEIbHOqowf3eX.jpg" group-title="2024 Movies",The Sixth (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="US mytv28 (WRDC) Raleigh/Durham (A)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US mytv28 (WRDC) Raleigh/Durham (A)
+http://cord-cutter.net:8080/Test/Test/215021
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla x Kong: The New Empire (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg" group-title="2024 Movies",Godzilla x Kong: The New Empire (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla Minus One (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg" group-title="2024 Movies",Godzilla Minus One (2023)
+http://cord-cutter.net:8080/movie/Test/Test/215035.mkv
+#EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA: MUCH MUSIC" tvg-logo="" group-title="CANADA",CA: MUCH MUSIC
+http://cord-cutter.net:8080/Test/Test/215268
+#EXTINF:-1 tvg-id="" tvg-name="M4: Action" tvg-logo="" group-title="24/7 CHANNELS ",M4: Action
+http://cord-cutter.net:8080/Test/Test/215269
+#EXTINF:-1 tvg-id="" tvg-name="M4: Adventure" tvg-logo="" group-title="24/7 CHANNELS ",M4: Adventure
+http://cord-cutter.net:8080/Test/Test/215270
+#EXTINF:-1 tvg-id="" tvg-name="M4: Alien" tvg-logo="" group-title="24/7 CHANNELS ",M4: Alien
+http://cord-cutter.net:8080/Test/Test/215271
+#EXTINF:-1 tvg-id="" tvg-name="M4: Animation" tvg-logo="" group-title="24/7 CHANNELS ",M4: Animation
+http://cord-cutter.net:8080/Test/Test/215272
+#EXTINF:-1 tvg-id="" tvg-name="M4: Avengers" tvg-logo="" group-title="24/7 CHANNELS ",M4: Avengers
+http://cord-cutter.net:8080/Test/Test/215273
+#EXTINF:-1 tvg-id="" tvg-name="M4: Batman" tvg-logo="" group-title="24/7 CHANNELS ",M4: Batman
+http://cord-cutter.net:8080/Test/Test/215274
+#EXTINF:-1 tvg-id="" tvg-name="M4: Biography" tvg-logo="" group-title="24/7 CHANNELS ",M4: Biography
+http://cord-cutter.net:8080/Test/Test/215275
+#EXTINF:-1 tvg-id="" tvg-name="M4: Blade" tvg-logo="" group-title="24/7 CHANNELS ",M4: Blade
+http://cord-cutter.net:8080/Test/Test/215276
+#EXTINF:-1 tvg-id="" tvg-name="M4: Blade Runner" tvg-logo="" group-title="24/7 CHANNELS ",M4: Blade Runner
+http://cord-cutter.net:8080/Test/Test/215277
+#EXTINF:-1 tvg-id="" tvg-name="M4: Comedy" tvg-logo="" group-title="24/7 CHANNELS ",M4: Comedy
+http://cord-cutter.net:8080/Test/Test/215278
+#EXTINF:-1 tvg-id="" tvg-name="M4: Creature" tvg-logo="" group-title="24/7 CHANNELS ",M4: Creature
+http://cord-cutter.net:8080/Test/Test/215279
+#EXTINF:-1 tvg-id="" tvg-name="M4: Crime" tvg-logo="" group-title="24/7 CHANNELS ",M4: Crime
+http://cord-cutter.net:8080/Test/Test/215280
+#EXTINF:-1 tvg-id="" tvg-name="M4: Deadpool" tvg-logo="" group-title="24/7 CHANNELS ",M4: Deadpool
+http://cord-cutter.net:8080/Test/Test/215281
+#EXTINF:-1 tvg-id="" tvg-name="M4: Die Hard" tvg-logo="" group-title="24/7 CHANNELS ",M4: Die Hard
+http://cord-cutter.net:8080/Test/Test/215282
+#EXTINF:-1 tvg-id="" tvg-name="M4: Drama" tvg-logo="" group-title="24/7 CHANNELS ",M4: Drama
+http://cord-cutter.net:8080/Test/Test/215283
+#EXTINF:-1 tvg-id="" tvg-name="M4: Epic" tvg-logo="" group-title="24/7 CHANNELS ",M4: Epic
+http://cord-cutter.net:8080/Test/Test/215284
+#EXTINF:-1 tvg-id="" tvg-name="M4: Family" tvg-logo="" group-title="24/7 CHANNELS ",M4: Family
+http://cord-cutter.net:8080/Test/Test/215285
+#EXTINF:-1 tvg-id="" tvg-name="M4: Fantasy" tvg-logo="" group-title="24/7 CHANNELS ",M4: Fantasy
+http://cord-cutter.net:8080/Test/Test/215286
+#EXTINF:-1 tvg-id="" tvg-name="M4: Fast and the Furious" tvg-logo="" group-title="24/7 CHANNELS ",M4: Fast and the Furious
+http://cord-cutter.net:8080/Test/Test/215287
+#EXTINF:-1 tvg-id="" tvg-name="M4: Final Destination" tvg-logo="" group-title="24/7 CHANNELS ",M4: Final Destination
+http://cord-cutter.net:8080/Test/Test/215288
+#EXTINF:-1 tvg-id="" tvg-name="M4: Ghostbusters" tvg-logo="" group-title="24/7 CHANNELS ",M4: Ghostbusters
+http://cord-cutter.net:8080/Test/Test/215289
+#EXTINF:-1 tvg-id="" tvg-name="M4: Hangover" tvg-logo="" group-title="24/7 CHANNELS ",M4: Hangover
+http://cord-cutter.net:8080/Test/Test/215290
+#EXTINF:-1 tvg-id="" tvg-name="M4: Harry Potter" tvg-logo="" group-title="24/7 CHANNELS ",M4: Harry Potter
+http://cord-cutter.net:8080/Test/Test/215291
+#EXTINF:-1 tvg-id="" tvg-name="M4: History" tvg-logo="" group-title="24/7 CHANNELS ",M4: History
+http://cord-cutter.net:8080/Test/Test/215292
+#EXTINF:-1 tvg-id="" tvg-name="M4: Horror" tvg-logo="" group-title="24/7 CHANNELS ",M4: Horror
+http://cord-cutter.net:8080/Test/Test/215293
+#EXTINF:-1 tvg-id="" tvg-name="M4: Ice Age" tvg-logo="" group-title="24/7 CHANNELS ",M4: Ice Age
+http://cord-cutter.net:8080/Test/Test/215294
+#EXTINF:-1 tvg-id="" tvg-name="M4: Indiana Jones" tvg-logo="" group-title="24/7 CHANNELS ",M4: Indiana Jones
+http://cord-cutter.net:8080/Test/Test/215295
+#EXTINF:-1 tvg-id="" tvg-name="M4: James Bond (007)" tvg-logo="" group-title="24/7 CHANNELS ",M4: James Bond (007)
+http://cord-cutter.net:8080/Test/Test/215296
+#EXTINF:-1 tvg-id="" tvg-name="M4: John Wick" tvg-logo="" group-title="24/7 CHANNELS ",M4: John Wick
+http://cord-cutter.net:8080/Test/Test/215297
+#EXTINF:-1 tvg-id="" tvg-name="M4: Jurassic Park" tvg-logo="" group-title="24/7 CHANNELS ",M4: Jurassic Park
+http://cord-cutter.net:8080/Test/Test/215298
+#EXTINF:-1 tvg-id="" tvg-name="M4: Kingsman" tvg-logo="" group-title="24/7 CHANNELS ",M4: Kingsman
+http://cord-cutter.net:8080/Test/Test/215299
+#EXTINF:-1 tvg-id="" tvg-name="M4: Legendary" tvg-logo="" group-title="24/7 CHANNELS ",M4: Legendary
+http://cord-cutter.net:8080/Test/Test/215300
+#EXTINF:-1 tvg-id="" tvg-name="M4: Mad Max" tvg-logo="" group-title="24/7 CHANNELS ",M4: Mad Max
+http://cord-cutter.net:8080/Test/Test/215301
+#EXTINF:-1 tvg-id="" tvg-name="M4: Maze Runner" tvg-logo="" group-title="24/7 CHANNELS ",M4: Maze Runner
+http://cord-cutter.net:8080/Test/Test/215302
+#EXTINF:-1 tvg-id="" tvg-name="M4: Men in Black" tvg-logo="" group-title="24/7 CHANNELS ",M4: Men in Black
+http://cord-cutter.net:8080/Test/Test/215303
+#EXTINF:-1 tvg-id="" tvg-name="M4: Mission Impossible" tvg-logo="" group-title="24/7 CHANNELS ",M4: Mission Impossible
+http://cord-cutter.net:8080/Test/Test/215304
+#EXTINF:-1 tvg-id="" tvg-name="M4: Musical" tvg-logo="" group-title="24/7 CHANNELS ",M4: Musical
+http://cord-cutter.net:8080/Test/Test/215305
+#EXTINF:-1 tvg-id="" tvg-name="M4: Mystery" tvg-logo="" group-title="24/7 CHANNELS ",M4: Mystery
+http://cord-cutter.net:8080/Test/Test/215306
+#EXTINF:-1 tvg-id="" tvg-name="M4: Mythological" tvg-logo="" group-title="24/7 CHANNELS ",M4: Mythological
+http://cord-cutter.net:8080/Test/Test/215307
+#EXTINF:-1 tvg-id="" tvg-name="M4: Oceans Eleven" tvg-logo="" group-title="24/7 CHANNELS ",M4: Oceans Eleven
+http://cord-cutter.net:8080/Test/Test/215308
+#EXTINF:-1 tvg-id="" tvg-name="M4: Pirates of the Caribbean" tvg-logo="" group-title="24/7 CHANNELS ",M4: Pirates of the Caribbean
+http://cord-cutter.net:8080/Test/Test/215309
+#EXTINF:-1 tvg-id="" tvg-name="M4: Planet of Apes" tvg-logo="" group-title="24/7 CHANNELS ",M4: Planet of Apes
+http://cord-cutter.net:8080/Test/Test/215310
+#EXTINF:-1 tvg-id="" tvg-name="M4: Post-Apocalyptic" tvg-logo="" group-title="24/7 CHANNELS ",M4: Post-Apocalyptic
+http://cord-cutter.net:8080/Test/Test/215311
+#EXTINF:-1 tvg-id="" tvg-name="M4: Resident Evil" tvg-logo="" group-title="24/7 CHANNELS ",M4: Resident Evil
+http://cord-cutter.net:8080/Test/Test/215312
+#EXTINF:-1 tvg-id="" tvg-name="M4: Robot" tvg-logo="" group-title="24/7 CHANNELS ",M4: Robot
+http://cord-cutter.net:8080/Test/Test/215313
+#EXTINF:-1 tvg-id="" tvg-name="M4: Rocky" tvg-logo="" group-title="24/7 CHANNELS ",M4: Rocky
+http://cord-cutter.net:8080/Test/Test/215314
+#EXTINF:-1 tvg-id="" tvg-name="M4: Romantic" tvg-logo="" group-title="24/7 CHANNELS ",M4: Romantic
+http://cord-cutter.net:8080/Test/Test/215315
+#EXTINF:-1 tvg-id="" tvg-name="M4: Saw" tvg-logo="" group-title="24/7 CHANNELS ",M4: Saw
+http://cord-cutter.net:8080/Test/Test/215316
+#EXTINF:-1 tvg-id="" tvg-name="M4: Science Fiction" tvg-logo="" group-title="24/7 CHANNELS ",M4: Science Fiction
+http://cord-cutter.net:8080/Test/Test/215317
+#EXTINF:-1 tvg-id="" tvg-name="M4: Sherlock Holmes" tvg-logo="" group-title="24/7 CHANNELS ",M4: Sherlock Holmes
+http://cord-cutter.net:8080/Test/Test/215318
+#EXTINF:-1 tvg-id="" tvg-name="M4: Shrek" tvg-logo="" group-title="24/7 CHANNELS ",M4: Shrek
+http://cord-cutter.net:8080/Test/Test/215319
+#EXTINF:-1 tvg-id="" tvg-name="M4: Space" tvg-logo="" group-title="24/7 CHANNELS ",M4: Space
+http://cord-cutter.net:8080/Test/Test/215320
+#EXTINF:-1 tvg-id="" tvg-name="M4: Spiderman" tvg-logo="" group-title="24/7 CHANNELS ",M4: Spiderman
+http://cord-cutter.net:8080/Test/Test/215321
+#EXTINF:-1 tvg-id="" tvg-name="M4: Sports" tvg-logo="" group-title="24/7 CHANNELS ",M4: Sports
+http://cord-cutter.net:8080/Test/Test/215322
+#EXTINF:-1 tvg-id="" tvg-name="M4: Spy" tvg-logo="" group-title="24/7 CHANNELS ",M4: Spy
+http://cord-cutter.net:8080/Test/Test/215323
+#EXTINF:-1 tvg-id="" tvg-name="M4: Star Wars" tvg-logo="" group-title="24/7 CHANNELS ",M4: Star Wars
+http://cord-cutter.net:8080/Test/Test/215324
+#EXTINF:-1 tvg-id="" tvg-name="M4: Superhero" tvg-logo="" group-title="24/7 CHANNELS ",M4: Superhero
+http://cord-cutter.net:8080/Test/Test/215325
+#EXTINF:-1 tvg-id="" tvg-name="M4: Survival" tvg-logo="" group-title="24/7 CHANNELS ",M4: Survival
+http://cord-cutter.net:8080/Test/Test/215326
+#EXTINF:-1 tvg-id="" tvg-name="M4: The Bourne" tvg-logo="" group-title="24/7 CHANNELS ",M4: The Bourne
+http://cord-cutter.net:8080/Test/Test/215327
+#EXTINF:-1 tvg-id="" tvg-name="M4: The Conjuring" tvg-logo="" group-title="24/7 CHANNELS ",M4: The Conjuring
+http://cord-cutter.net:8080/Test/Test/215328
+#EXTINF:-1 tvg-id="" tvg-name="M4: The Expendables" tvg-logo="" group-title="24/7 CHANNELS ",M4: The Expendables
+http://cord-cutter.net:8080/Test/Test/215329
+#EXTINF:-1 tvg-id="" tvg-name="M4: The Godfather" tvg-logo="" group-title="24/7 CHANNELS ",M4: The Godfather
+http://cord-cutter.net:8080/Test/Test/215330
+#EXTINF:-1 tvg-id="" tvg-name="M4: The Hobbit" tvg-logo="" group-title="24/7 CHANNELS ",M4: The Hobbit
+http://cord-cutter.net:8080/Test/Test/215331
+#EXTINF:-1 tvg-id="" tvg-name="M4: The Hunger Games" tvg-logo="" group-title="24/7 CHANNELS ",M4: The Hunger Games
+http://cord-cutter.net:8080/Test/Test/215332
+#EXTINF:-1 tvg-id="" tvg-name="M4: The Karete Kid" tvg-logo="" group-title="24/7 CHANNELS ",M4: The Karete Kid
+http://cord-cutter.net:8080/Test/Test/215333
+#EXTINF:-1 tvg-id="" tvg-name="M4: The Lord of The Rings" tvg-logo="" group-title="24/7 CHANNELS ",M4: The Lord of The Rings
+http://cord-cutter.net:8080/Test/Test/215334
+#EXTINF:-1 tvg-id="" tvg-name="M4: The Matrix" tvg-logo="" group-title="24/7 CHANNELS ",M4: The Matrix
+http://cord-cutter.net:8080/Test/Test/215335
+#EXTINF:-1 tvg-id="" tvg-name="M4: The Mummy" tvg-logo="" group-title="24/7 CHANNELS ",M4: The Mummy
+http://cord-cutter.net:8080/Test/Test/215336
+#EXTINF:-1 tvg-id="" tvg-name="M4: The Purge" tvg-logo="" group-title="24/7 CHANNELS ",M4: The Purge
+http://cord-cutter.net:8080/Test/Test/215337
+#EXTINF:-1 tvg-id="" tvg-name="M4: The Terminator" tvg-logo="" group-title="24/7 CHANNELS ",M4: The Terminator
+http://cord-cutter.net:8080/Test/Test/215338
+#EXTINF:-1 tvg-id="" tvg-name="M4: Three Flavours Cornetto" tvg-logo="" group-title="24/7 CHANNELS ",M4: Three Flavours Cornetto
+http://cord-cutter.net:8080/Test/Test/215339
+#EXTINF:-1 tvg-id="" tvg-name="M4: Thriller" tvg-logo="" group-title="24/7 CHANNELS ",M4: Thriller
+http://cord-cutter.net:8080/Test/Test/215340
+#EXTINF:-1 tvg-id="" tvg-name="M4: Toy Story" tvg-logo="" group-title="24/7 CHANNELS ",M4: Toy Story
+http://cord-cutter.net:8080/Test/Test/215341
+#EXTINF:-1 tvg-id="" tvg-name="M4: Transformers" tvg-logo="" group-title="24/7 CHANNELS ",M4: Transformers
+http://cord-cutter.net:8080/Test/Test/215342
+#EXTINF:-1 tvg-id="" tvg-name="M4: Transporter" tvg-logo="" group-title="24/7 CHANNELS ",M4: Transporter
+http://cord-cutter.net:8080/Test/Test/215343
+#EXTINF:-1 tvg-id="" tvg-name="M4: Twilight Saga" tvg-logo="" group-title="24/7 CHANNELS ",M4: Twilight Saga
+http://cord-cutter.net:8080/Test/Test/215344
+#EXTINF:-1 tvg-id="" tvg-name="M4: War" tvg-logo="" group-title="24/7 CHANNELS ",M4: War
+http://cord-cutter.net:8080/Test/Test/215345
+#EXTINF:-1 tvg-id="" tvg-name="M4: Western" tvg-logo="" group-title="24/7 CHANNELS ",M4: Western
+http://cord-cutter.net:8080/Test/Test/215346
+#EXTINF:-1 tvg-id="" tvg-name="M4: X-Men" tvg-logo="" group-title="24/7 CHANNELS ",M4: X-Men
+http://cord-cutter.net:8080/Test/Test/215347
+#EXTINF:-1 tvg-id="" tvg-name="M4: Zombie" tvg-logo="" group-title="24/7 CHANNELS ",M4: Zombie
+http://cord-cutter.net:8080/Test/Test/215348
+#EXTINF:-1 tvg-id="" tvg-name="M4: Benedict Cumberbatch" tvg-logo="" group-title="24/7 CHANNELS ",M4: Benedict Cumberbatch
+http://cord-cutter.net:8080/Test/Test/215349
+#EXTINF:-1 tvg-id="" tvg-name="M4: Bradley Cooper" tvg-logo="" group-title="24/7 CHANNELS ",M4: Bradley Cooper
+http://cord-cutter.net:8080/Test/Test/215350
+#EXTINF:-1 tvg-id="" tvg-name="M4: Christian Bale" tvg-logo="" group-title="24/7 CHANNELS ",M4: Christian Bale
+http://cord-cutter.net:8080/Test/Test/215351
+#EXTINF:-1 tvg-id="" tvg-name="M4: Cillian Murphy" tvg-logo="" group-title="24/7 CHANNELS ",M4: Cillian Murphy
+http://cord-cutter.net:8080/Test/Test/215352
+#EXTINF:-1 tvg-id="" tvg-name="M4: Edward Norton" tvg-logo="" group-title="24/7 CHANNELS ",M4: Edward Norton
+http://cord-cutter.net:8080/Test/Test/215353
+#EXTINF:-1 tvg-id="" tvg-name="M4: Hugh Jackman" tvg-logo="" group-title="24/7 CHANNELS ",M4: Hugh Jackman
+http://cord-cutter.net:8080/Test/Test/215354
+#EXTINF:-1 tvg-id="" tvg-name="M4: Jack Nicholson" tvg-logo="" group-title="24/7 CHANNELS ",M4: Jack Nicholson
+http://cord-cutter.net:8080/Test/Test/215355
+#EXTINF:-1 tvg-id="" tvg-name="M4: Jake Gyllenhaal" tvg-logo="" group-title="24/7 CHANNELS ",M4: Jake Gyllenhaal
+http://cord-cutter.net:8080/Test/Test/215356
+#EXTINF:-1 tvg-id="" tvg-name="M4: Jamie Foxx" tvg-logo="" group-title="24/7 CHANNELS ",M4: Jamie Foxx
+http://cord-cutter.net:8080/Test/Test/215357
+#EXTINF:-1 tvg-id="" tvg-name="M4: Jeff Bridges" tvg-logo="" group-title="24/7 CHANNELS ",M4: Jeff Bridges
+http://cord-cutter.net:8080/Test/Test/215358
+#EXTINF:-1 tvg-id="" tvg-name="M4: Jim Carrey" tvg-logo="" group-title="24/7 CHANNELS ",M4: Jim Carrey
+http://cord-cutter.net:8080/Test/Test/215359
+#EXTINF:-1 tvg-id="" tvg-name="M4: Johnny Depp" tvg-logo="" group-title="24/7 CHANNELS ",M4: Johnny Depp
+http://cord-cutter.net:8080/Test/Test/215360
+#EXTINF:-1 tvg-id="" tvg-name="M4: Keanu Reeves" tvg-logo="" group-title="24/7 CHANNELS ",M4: Keanu Reeves
+http://cord-cutter.net:8080/Test/Test/215361
+#EXTINF:-1 tvg-id="" tvg-name="M4: Liam Neeson" tvg-logo="" group-title="24/7 CHANNELS ",M4: Liam Neeson
+http://cord-cutter.net:8080/Test/Test/215362
+#EXTINF:-1 tvg-id="" tvg-name="M4: Mark Wahlberg" tvg-logo="" group-title="24/7 CHANNELS ",M4: Mark Wahlberg
+http://cord-cutter.net:8080/Test/Test/215363
+#EXTINF:-1 tvg-id="" tvg-name="M4: Matt Damon" tvg-logo="" group-title="24/7 CHANNELS ",M4: Matt Damon
+http://cord-cutter.net:8080/Test/Test/215364
+#EXTINF:-1 tvg-id="" tvg-name="M4: Micheal Caine" tvg-logo="" group-title="24/7 CHANNELS ",M4: Micheal Caine
+http://cord-cutter.net:8080/Test/Test/215365
+#EXTINF:-1 tvg-id="" tvg-name="M4: Morgan Freeman" tvg-logo="" group-title="24/7 CHANNELS ",M4: Morgan Freeman
+http://cord-cutter.net:8080/Test/Test/215366
+#EXTINF:-1 tvg-id="" tvg-name="M4: Russell Crowe" tvg-logo="" group-title="24/7 CHANNELS ",M4: Russell Crowe
+http://cord-cutter.net:8080/Test/Test/215367
+#EXTINF:-1 tvg-id="" tvg-name="M4: Ryan Reynolds" tvg-logo="" group-title="24/7 CHANNELS ",M4: Ryan Reynolds
+http://cord-cutter.net:8080/Test/Test/215368
+#EXTINF:-1 tvg-id="" tvg-name="M4: Samuel L. Jakson" tvg-logo="" group-title="24/7 CHANNELS ",M4: Samuel L. Jakson
+http://cord-cutter.net:8080/Test/Test/215369
+#EXTINF:-1 tvg-id="" tvg-name="M4: Tom Cruise" tvg-logo="" group-title="24/7 CHANNELS ",M4: Tom Cruise
+http://cord-cutter.net:8080/Test/Test/215370
+#EXTINF:-1 tvg-id="" tvg-name="M4: Tom Hanks" tvg-logo="" group-title="24/7 CHANNELS ",M4: Tom Hanks
+http://cord-cutter.net:8080/Test/Test/215371
+#EXTINF:-1 tvg-id="" tvg-name="M4: Will Smith" tvg-logo="" group-title="24/7 CHANNELS ",M4: Will Smith
+http://cord-cutter.net:8080/Test/Test/215372
+#EXTINF:-1 tvg-id="" tvg-name="M4: Adam Sandler" tvg-logo="" group-title="24/7 CHANNELS ",M4: Adam Sandler
+http://cord-cutter.net:8080/Test/Test/215373
+#EXTINF:-1 tvg-id="" tvg-name="M4: Arnold Schwarzenegger" tvg-logo="" group-title="24/7 CHANNELS ",M4: Arnold Schwarzenegger
+http://cord-cutter.net:8080/Test/Test/215374
+#EXTINF:-1 tvg-id="" tvg-name="M4: Daniel Craig" tvg-logo="" group-title="24/7 CHANNELS ",M4: Daniel Craig
+http://cord-cutter.net:8080/Test/Test/215375
+#EXTINF:-1 tvg-id="" tvg-name="M4: Dwayne Johnson" tvg-logo="" group-title="24/7 CHANNELS ",M4: Dwayne Johnson
+http://cord-cutter.net:8080/Test/Test/215376
+#EXTINF:-1 tvg-id="" tvg-name="M4: Gerard Butler" tvg-logo="" group-title="24/7 CHANNELS ",M4: Gerard Butler
+http://cord-cutter.net:8080/Test/Test/215377
+#EXTINF:-1 tvg-id="" tvg-name="M4: Jackie Chan" tvg-logo="" group-title="24/7 CHANNELS ",M4: Jackie Chan
+http://cord-cutter.net:8080/Test/Test/215378
+#EXTINF:-1 tvg-id="" tvg-name="M4: Jason Statham" tvg-logo="" group-title="24/7 CHANNELS ",M4: Jason Statham
+http://cord-cutter.net:8080/Test/Test/215379
+#EXTINF:-1 tvg-id="" tvg-name="M4: Kevin Hart" tvg-logo="" group-title="24/7 CHANNELS ",M4: Kevin Hart
+http://cord-cutter.net:8080/Test/Test/215380
+#EXTINF:-1 tvg-id="" tvg-name="M4: Orlando Bloom" tvg-logo="" group-title="24/7 CHANNELS ",M4: Orlando Bloom
+http://cord-cutter.net:8080/Test/Test/215381
+#EXTINF:-1 tvg-id="" tvg-name="M4: Sylvester Stallone" tvg-logo="" group-title="24/7 CHANNELS ",M4: Sylvester Stallone
+http://cord-cutter.net:8080/Test/Test/215382
+#EXTINF:-1 tvg-id="" tvg-name="M4: Tom Hardy" tvg-logo="" group-title="24/7 CHANNELS ",M4: Tom Hardy
+http://cord-cutter.net:8080/Test/Test/215383
+#EXTINF:-1 tvg-id="" tvg-name="M4: Amy Adams" tvg-logo="" group-title="24/7 CHANNELS ",M4: Amy Adams
+http://cord-cutter.net:8080/Test/Test/215384
+#EXTINF:-1 tvg-id="" tvg-name="M4: Anne Hathaway" tvg-logo="" group-title="24/7 CHANNELS ",M4: Anne Hathaway
+http://cord-cutter.net:8080/Test/Test/215385
+#EXTINF:-1 tvg-id="" tvg-name="M4: Brie Larson" tvg-logo="" group-title="24/7 CHANNELS ",M4: Brie Larson
+http://cord-cutter.net:8080/Test/Test/215386
+#EXTINF:-1 tvg-id="" tvg-name="M4: Cate Blanchett" tvg-logo="" group-title="24/7 CHANNELS ",M4: Cate Blanchett
+http://cord-cutter.net:8080/Test/Test/215387
+#EXTINF:-1 tvg-id="" tvg-name="M4: Charlize Theron" tvg-logo="" group-title="24/7 CHANNELS ",M4: Charlize Theron
+http://cord-cutter.net:8080/Test/Test/215388
+#EXTINF:-1 tvg-id="" tvg-name="M4: Halle Berry" tvg-logo="" group-title="24/7 CHANNELS ",M4: Halle Berry
+http://cord-cutter.net:8080/Test/Test/215389
+#EXTINF:-1 tvg-id="" tvg-name="M4: Helen Mirren" tvg-logo="" group-title="24/7 CHANNELS ",M4: Helen Mirren
+http://cord-cutter.net:8080/Test/Test/215390
+#EXTINF:-1 tvg-id="" tvg-name="M4: Brad Pitt" tvg-logo="" group-title="24/7 CHANNELS ",M4: Brad Pitt
+http://cord-cutter.net:8080/Test/Test/215391
+#EXTINF:-1 tvg-id="" tvg-name="M4: Al Pacino" tvg-logo="" group-title="24/7 CHANNELS ",M4: Al Pacino
+http://cord-cutter.net:8080/Test/Test/215392
+#EXTINF:-1 tvg-id="" tvg-name="M4: Denzel Washington" tvg-logo="" group-title="24/7 CHANNELS ",M4: Denzel Washington
+http://cord-cutter.net:8080/Test/Test/215393
+#EXTINF:-1 tvg-id="" tvg-name="M4: Vin Diesel" tvg-logo="" group-title="24/7 CHANNELS ",M4: Vin Diesel
+http://cord-cutter.net:8080/Test/Test/215394
+#EXTINF:-1 tvg-id="" tvg-name="M4: Bruce Willis" tvg-logo="" group-title="24/7 CHANNELS ",M4: Bruce Willis
+http://cord-cutter.net:8080/Test/Test/215395
+#EXTINF:-1 tvg-id="" tvg-name="M4: Robert Downey Jr" tvg-logo="" group-title="24/7 CHANNELS ",M4: Robert Downey Jr
+http://cord-cutter.net:8080/Test/Test/215396
+#EXTINF:-1 tvg-id="" tvg-name="M4: Leonardo DiCaprio" tvg-logo="" group-title="24/7 CHANNELS ",M4: Leonardo DiCaprio
+http://cord-cutter.net:8080/Test/Test/215397
+#EXTINF:-1 tvg-id="" tvg-name="M4: Angelina Jolie" tvg-logo="" group-title="24/7 CHANNELS ",M4: Angelina Jolie
+http://cord-cutter.net:8080/Test/Test/215398
+#EXTINF:-1 tvg-id="" tvg-name="M4: Alicia Vikander" tvg-logo="" group-title="24/7 CHANNELS ",M4: Alicia Vikander
+http://cord-cutter.net:8080/Test/Test/215399
+#EXTINF:-1 tvg-id="" tvg-name="M4: Emma Stone" tvg-logo="" group-title="24/7 CHANNELS ",M4: Emma Stone
+http://cord-cutter.net:8080/Test/Test/215400
+#EXTINF:-1 tvg-id="" tvg-name="M4: Emma Watson" tvg-logo="" group-title="24/7 CHANNELS ",M4: Emma Watson
+http://cord-cutter.net:8080/Test/Test/215401
+#EXTINF:-1 tvg-id="" tvg-name="M4: Jennifer Lawrence" tvg-logo="" group-title="24/7 CHANNELS ",M4: Jennifer Lawrence
+http://cord-cutter.net:8080/Test/Test/215402
+#EXTINF:-1 tvg-id="" tvg-name="M4: Julia Roberts" tvg-logo="" group-title="24/7 CHANNELS ",M4: Julia Roberts
+http://cord-cutter.net:8080/Test/Test/215403
+#EXTINF:-1 tvg-id="" tvg-name="M4: Julianne Moore" tvg-logo="" group-title="24/7 CHANNELS ",M4: Julianne Moore
+http://cord-cutter.net:8080/Test/Test/215404
+#EXTINF:-1 tvg-id="" tvg-name="M4: Kate Winslet" tvg-logo="" group-title="24/7 CHANNELS ",M4: Kate Winslet
+http://cord-cutter.net:8080/Test/Test/215405
+#EXTINF:-1 tvg-id="" tvg-name="M4: Keira Knightley" tvg-logo="" group-title="24/7 CHANNELS ",M4: Keira Knightley
+http://cord-cutter.net:8080/Test/Test/215406
+#EXTINF:-1 tvg-id="" tvg-name="M4: Kristen Stewart" tvg-logo="" group-title="24/7 CHANNELS ",M4: Kristen Stewart
+http://cord-cutter.net:8080/Test/Test/215407
+#EXTINF:-1 tvg-id="" tvg-name="M4: Lupita Nyong` o" tvg-logo="" group-title="24/7 CHANNELS ",M4: Lupita Nyong` o
+http://cord-cutter.net:8080/Test/Test/215408
+#EXTINF:-1 tvg-id="" tvg-name="M4: Margot Robbie" tvg-logo="" group-title="24/7 CHANNELS ",M4: Margot Robbie
+http://cord-cutter.net:8080/Test/Test/215409
+#EXTINF:-1 tvg-id="" tvg-name="M4: Meryl Streep" tvg-logo="" group-title="24/7 CHANNELS ",M4: Meryl Streep
+http://cord-cutter.net:8080/Test/Test/215410
+#EXTINF:-1 tvg-id="" tvg-name="M4: Michelle Pfeiffer" tvg-logo="" group-title="24/7 CHANNELS ",M4: Michelle Pfeiffer
+http://cord-cutter.net:8080/Test/Test/215411
+#EXTINF:-1 tvg-id="" tvg-name="M4: Natalie Portman" tvg-logo="" group-title="24/7 CHANNELS ",M4: Natalie Portman
+http://cord-cutter.net:8080/Test/Test/215412
+#EXTINF:-1 tvg-id="" tvg-name="M4: Nicole Kidman" tvg-logo="" group-title="24/7 CHANNELS ",M4: Nicole Kidman
+http://cord-cutter.net:8080/Test/Test/215413
+#EXTINF:-1 tvg-id="" tvg-name="M4: Rachel McAdams" tvg-logo="" group-title="24/7 CHANNELS ",M4: Rachel McAdams
+http://cord-cutter.net:8080/Test/Test/215414
+#EXTINF:-1 tvg-id="" tvg-name="M4: Reese Witherspoon" tvg-logo="" group-title="24/7 CHANNELS ",M4: Reese Witherspoon
+http://cord-cutter.net:8080/Test/Test/215415
+#EXTINF:-1 tvg-id="" tvg-name="M4: Salma Hayek" tvg-logo="" group-title="24/7 CHANNELS ",M4: Salma Hayek
+http://cord-cutter.net:8080/Test/Test/215416
+#EXTINF:-1 tvg-id="" tvg-name="M4: Sandra Bullock" tvg-logo="" group-title="24/7 CHANNELS ",M4: Sandra Bullock
+http://cord-cutter.net:8080/Test/Test/215417
+#EXTINF:-1 tvg-id="" tvg-name="M4: Saoirse Ronan" tvg-logo="" group-title="24/7 CHANNELS ",M4: Saoirse Ronan
+http://cord-cutter.net:8080/Test/Test/215418
+#EXTINF:-1 tvg-id="" tvg-name="M4: Scarlett Johansson" tvg-logo="" group-title="24/7 CHANNELS ",M4: Scarlett Johansson
+http://cord-cutter.net:8080/Test/Test/215419
+#EXTINF:-1 tvg-id="" tvg-name="M4: Viola Davis" tvg-logo="" group-title="24/7 CHANNELS ",M4: Viola Davis
+http://cord-cutter.net:8080/Test/Test/215420
+#EXTINF:-1 tvg-id="" tvg-name="M4: Cameron Diaz" tvg-logo="" group-title="24/7 CHANNELS ",M4: Cameron Diaz
+http://cord-cutter.net:8080/Test/Test/215421
+#EXTINF:-1 tvg-id="" tvg-name="M4: Catherine Zeta-Jones" tvg-logo="" group-title="24/7 CHANNELS ",M4: Catherine Zeta-Jones
+http://cord-cutter.net:8080/Test/Test/215422
+#EXTINF:-1 tvg-id="" tvg-name="M4: Drew Barrymore" tvg-logo="" group-title="24/7 CHANNELS ",M4: Drew Barrymore
+http://cord-cutter.net:8080/Test/Test/215423
+#EXTINF:-1 tvg-id="" tvg-name="M4: Eva Green" tvg-logo="" group-title="24/7 CHANNELS ",M4: Eva Green
+http://cord-cutter.net:8080/Test/Test/215424
+#EXTINF:-1 tvg-id="" tvg-name="M4: Jennifer Aniston" tvg-logo="" group-title="24/7 CHANNELS ",M4: Jennifer Aniston
+http://cord-cutter.net:8080/Test/Test/215425
+#EXTINF:-1 tvg-id="" tvg-name="M4: Jessica Alba" tvg-logo="" group-title="24/7 CHANNELS ",M4: Jessica Alba
+http://cord-cutter.net:8080/Test/Test/215426
+#EXTINF:-1 tvg-id="" tvg-name="M4: Lucy Liu" tvg-logo="" group-title="24/7 CHANNELS ",M4: Lucy Liu
+http://cord-cutter.net:8080/Test/Test/215427
+#EXTINF:-1 tvg-id="" tvg-name="M4: Megan Fox" tvg-logo="" group-title="24/7 CHANNELS ",M4: Megan Fox
+http://cord-cutter.net:8080/Test/Test/215428
+#EXTINF:-1 tvg-id="" tvg-name="M4: Melissa McCarthy" tvg-logo="" group-title="24/7 CHANNELS ",M4: Melissa McCarthy
+http://cord-cutter.net:8080/Test/Test/215429
+#EXTINF:-1 tvg-id="" tvg-name="M4: Mila Kunis" tvg-logo="" group-title="24/7 CHANNELS ",M4: Mila Kunis
+http://cord-cutter.net:8080/Test/Test/215430
+#EXTINF:-1 tvg-id="" tvg-name="M4: Penope Cruz" tvg-logo="" group-title="24/7 CHANNELS ",M4: Penope Cruz
+http://cord-cutter.net:8080/Test/Test/215431
+#EXTINF:-1 tvg-id="" tvg-name="M4: Sigourney Weaver" tvg-logo="" group-title="24/7 CHANNELS ",M4: Sigourney Weaver
+http://cord-cutter.net:8080/Test/Test/215432
+#EXTINF:-1 tvg-id="" tvg-name="M4: Zoe Saldana" tvg-logo="" group-title="24/7 CHANNELS ",M4: Zoe Saldana
+http://cord-cutter.net:8080/Test/Test/215433
+#EXTINF:-1 tvg-id="" tvg-name="PPV02|  DON KING ADRIEN BRONER VS. BLAIR COBBS (6.7 6:00 PM ET) FITE" tvg-logo="" group-title="PPV | UFC",PPV02|  DON KING ADRIEN BRONER VS. BLAIR COBBS (6.7 6:00 PM ET) FITE
+http://cord-cutter.net:8080/Test/Test/215822
+#EXTINF:-1 tvg-id="" tvg-name="PPV03| DCS 92 SUMMER KICKOFF 2024 (6.7 7:30 PM ET) FITE" tvg-logo="" group-title="PPV | UFC",PPV03| DCS 92 SUMMER KICKOFF 2024 (6.7 7:30 PM ET) FITE
+http://cord-cutter.net:8080/Test/Test/215823
+#EXTINF:-1 tvg-id="" tvg-name="PPV04| BLP FAMILY REUNION (6.7 8:30 PM ET) FITE" tvg-logo="" group-title="PPV | UFC",PPV04| BLP FAMILY REUNION (6.7 8:30 PM ET) FITE
+http://cord-cutter.net:8080/Test/Test/215824
+#EXTINF:-1 tvg-id="" tvg-name="PPV05  | LFA 185 (6.7 9:00 PM ET) UFC" tvg-logo="" group-title="PPV | UFC",PPV05  | LFA 185 (6.7 9:00 PM ET) UFC
+http://cord-cutter.net:8080/Test/Test/215825
+#EXTINF:-1 tvg-id="" tvg-name="PPV06 | CAGE WARRIORS 173 SAN DIEGO (6.7 9:30 PM ET) UFC" tvg-logo="" group-title="PPV | UFC",PPV06 | CAGE WARRIORS 173 SAN DIEGO (6.7 9:30 PM ET) UFC
+http://cord-cutter.net:8080/Test/Test/215826
+#EXTINF:-1 tvg-id="" tvg-name="PPV07  |  HOLLYWOOD FIGHT NIGHTS WALSH VS. ORTIZ (6.7 10:00 PM ET) UFC" tvg-logo="" group-title="PPV | UFC",PPV07  |  HOLLYWOOD FIGHT NIGHTS WALSH VS. ORTIZ (6.7 10:00 PM ET) UFC
+http://cord-cutter.net:8080/Test/Test/215827
+#EXTINF:-1 tvg-id="" tvg-name="PPV08  | COLLAZO VS. ZAPATA (6.7 8:00 PM ET) DAZN" tvg-logo="" group-title="PPV | UFC",PPV08  | COLLAZO VS. ZAPATA (6.7 8:00 PM ET) DAZN
+http://cord-cutter.net:8080/Test/Test/215828
+#EXTINF:-1 tvg-id="" tvg-name="PPV09  | ONE 167 TAWANCHAI VS NATTAWUT (6.7 8:00 PM ET) PPV" tvg-logo="" group-title="PPV | UFC",PPV09  | ONE 167 TAWANCHAI VS NATTAWUT (6.7 8:00 PM ET) PPV
+http://cord-cutter.net:8080/Test/Test/215829
+#EXTINF:-1 tvg-id="" tvg-name="PPV10 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)" tvg-logo="" group-title="PPV | UFC",PPV10 | THE HUNT OF THE BEAST HALL VS. NEFFATI BROTHERS (6.7 3:30 PM ET)
+http://cord-cutter.net:8080/Test/Test/215830
+#EXTINF:-1 tvg-id="" tvg-name="PPV11  | SHAMROCK FC 355 (6.8 8:30 PM ET) FITE" tvg-logo="" group-title="PPV | UFC",PPV11  | SHAMROCK FC 355 (6.8 8:30 PM ET) FITE
+http://cord-cutter.net:8080/Test/Test/215831
+#EXTINF:-1 tvg-id="" tvg-name="PPV12 | FSW HIGH OCTANE (6.8 10:00 PM ET) FITE" tvg-logo="" group-title="PPV | UFC",PPV12 | FSW HIGH OCTANE (6.8 10:00 PM ET) FITE
+http://cord-cutter.net:8080/Test/Test/215832
+#EXTINF:-1 tvg-id="" tvg-name="PPV13 | ZAYAS VS. TEIXEIRA (6.8 7:30 PM ET) DAZN" tvg-logo="" group-title="PPV | UFC",PPV13 | ZAYAS VS. TEIXEIRA (6.8 7:30 PM ET) DAZN
+http://cord-cutter.net:8080/Test/Test/215833
+#EXTINF:-1 tvg-id="" tvg-name="PPV14 | PFL EUROPE 2 (6.8 12:00 PM ET) DAZN" tvg-logo="" group-title="PPV | UFC",PPV14 | PFL EUROPE 2 (6.8 12:00 PM ET) DAZN
+http://cord-cutter.net:8080/Test/Test/215834
+#EXTINF:-1 tvg-id="" tvg-name="PPV15 | OKTAGON 58 (6.8 12:00 PM ET) DAZN" tvg-logo="" group-title="PPV | UFC",PPV15 | OKTAGON 58 (6.8 12:00 PM ET) DAZN
+http://cord-cutter.net:8080/Test/Test/215835
+#EXTINF:-1 tvg-id="" tvg-name="PPV16 | LIV HOUSTON DAY 2 (6.8 1:00 PM ET) DAZN" tvg-logo="" group-title="PPV | UFC",PPV16 | LIV HOUSTON DAY 2 (6.8 1:00 PM ET) DAZN
+http://cord-cutter.net:8080/Test/Test/215836
+#EXTINF:-1 tvg-id="" tvg-name="PPV17 | OBERLTON VS. CRUZ (6.8 8:00 PM ET) DAZN" tvg-logo="" group-title="PPV | UFC",PPV17 | OBERLTON VS. CRUZ (6.8 8:00 PM ET) DAZN
+http://cord-cutter.net:8080/Test/Test/215837
+#EXTINF:-1 tvg-id="" tvg-name="After Everything (2023)" tvg-logo="" group-title="2023 Movies",After Everything (2023)
+http://cord-cutter.net:8080/movie/Test/Test/215838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Terrorland (2023)" tvg-logo="" group-title="2023 Movies",Alice in Terrorland (2023)
+http://cord-cutter.net:8080/movie/Test/Test/215839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asphalt.City.2023.720p.BluRay.x264.AAC-[YTS.MX]" tvg-logo="" group-title="2023 Movies",Asphalt.City.2023.720p.BluRay.x264.AAC-[YTS.MX]
+http://cord-cutter.net:8080/movie/Test/Test/215840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="May December (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhV7B610l7hjlri4ywikJ18ONuq.jpg" group-title="2023 Movies",May December (2023)
+http://cord-cutter.net:8080/movie/Test/Test/215842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mooned (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhxmlGe6mi7437ykXd1P11EWfzO.jpg" group-title="2023 Movies",Mooned (2023)
+http://cord-cutter.net:8080/movie/Test/Test/215843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="She Came to Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lG18RqCK8qTk7R5jA1L7ZRMWXu.jpg" group-title="2023 Movies",She Came to Me (2023)
+http://cord-cutter.net:8080/movie/Test/Test/215844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Zone of Interest (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg" group-title="2023 Movies",The Zone of Interest (2023)
+http://cord-cutter.net:8080/movie/Test/Test/215845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="'Twas the Text Before Christmas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1fvQdD63RP2MS9jCB8jzg7fkdr.jpg" group-title="2023 Movies",'Twas the Text Before Christmas (2023)
+http://cord-cutter.net:8080/movie/Test/Test/215846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vanished in Yosemite (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsZD3dZRaYOkBBNjlZf4rXef471.jpg" group-title="2023 Movies",Vanished in Yosemite (2023)
+http://cord-cutter.net:8080/movie/Test/Test/215847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Who's Yer Father? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJA7kejyRG3tNVRzrHg5RBW6gur.jpg" group-title="2023 Movies",Who's Yer Father? (2023)
+http://cord-cutter.net:8080/movie/Test/Test/215848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atlas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJA7kejyRG3tNVRzrHg5RBW6gur.jpg" group-title="2024 Movies",Atlas (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Back to Black (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg" group-title="2024 Movies",Back to Black (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cash Out (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3youHDLigrtIis1NqTjlY8Sk38.jpg" group-title="2024 Movies",Cash Out (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Challengers (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/H6vke7zGiuLsz4v4RPeReb9rsv.jpg" group-title="2024 Movies",Challengers (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Damaged (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eacWm6jPrjkpqhi4VzwqYeJWL6k.jpg" group-title="2024 Movies",Damaged (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dead Wrong (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fgWP9wK96rIWRYCXVf64HS1wi2.jpg" group-title="2024 Movies",Dead Wrong (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don't Tell Mom the Babysitter's Dead (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMLrX8qaagRUESyPSJCARNlT8Xd.jpg" group-title="2024 Movies",Don't Tell Mom the Babysitter's Dead (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gaga Chromatica Ball (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uWhPiEcMDI8XelSmfTobTmPyA1.jpg" group-title="2024 Movies",Gaga Chromatica Ball (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="2024 Movies",Kung Fu Panda 4 (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Light (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SMFd8JuWtXpAp9omn9O0l5Wt1U.jpg" group-title="2024 Movies",Light (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Love Lies Bleeding (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7jyFWiLyHPttqYBFAlLJwtYTYH.jpg" group-title="2024 Movies",Love Lies Bleeding (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Not Another Church Movie (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLEWhuLToCrSCs3viyM6E4ztOHj.jpg" group-title="2024 Movies",Not Another Church Movie (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ODESZA: The Last Goodbye Cinematic Experience (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS2qC2974Q9Km6gKppbANi7A2Rf.jpg" group-title="2024 Movies",ODESZA: The Last Goodbye Cinematic Experience (2023)
+http://cord-cutter.net:8080/movie/Test/Test/215862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Planeta dos Macacos O Reinado (2024) 720p HDCAM [Dublado PT-BR] Betandyou" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS2qC2974Q9Km6gKppbANi7A2Rf.jpg" group-title="2024 Movies",Planeta dos Macacos O Reinado (2024) 720p HDCAM [Dublado PT-BR] Betandyou
+http://cord-cutter.net:8080/movie/Test/Test/215863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rachel Feinstein: Big Guy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYoKF9Gh3cHh2IUCgFCn9hltUYf.jpg" group-title="2024 Movies",Rachel Feinstein: Big Guy (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Renee Gracie: Fireproof (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ac1bWyxpqPIGzdFGwGYJITjNZyY.jpg" group-title="2024 Movies",Renee Gracie: Fireproof (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reptilians (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vP9y15gZEOhAx7B4NuLeWEkUKh.jpg" group-title="2024 Movies",Reptilians (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seize Them! (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41ObLC8TWDLnEKjMlax519wPNk2.jpg" group-title="2024 Movies",Seize Them! (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="South Park: The End of Obesity (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxM1AIKBP83plf2buLR0cbGfvl2.jpg" group-title="2024 Movies",South Park: The End of Obesity (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stress Positions (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsVWPrHJvXEt1XPxAEqLiSq0eyy.jpg" group-title="2024 Movies",Stress Positions (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tarot (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg" group-title="2024 Movies",Tarot (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Blue Angels (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdcVDWLfesmPG9NsPEzxpFMXgcB.jpg" group-title="2024 Movies",The Blue Angels (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Fall Guy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSz1qsmSJon0rqjHBxXZmrotuse.jpg" group-title="2024 Movies",The Fall Guy (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Legend of Catclaws Mountain (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4T3Gz4ZC8H6kaEpq56S4j3mI40L.jpg" group-title="2024 Movies",The Legend of Catclaws Mountain (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="You Can't Run Forever (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkQEa3W4UbkAaL8kwv7pj7AiM0u.jpg" group-title="2024 Movies",You Can't Run Forever (2024)
+http://cord-cutter.net:8080/movie/Test/Test/215874.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The Tiger's Apprentice (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiid1xMhoAcW83VJ9LdAqf4Vtbr.jpg" group-title="2024 Movies",The Tiger's Apprentice (2024)
+http://cord-cutter.net:8080/movie/Test/Test/212894.mp4
